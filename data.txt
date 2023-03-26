@@ -1,0 +1,9 @@
+Oat,54,19,Team A
+Runrun,90,12,Team B
+Ting,72,88,Team C
+Nate,65,44,Team B
+Earth,48,72,Team B
+Nemo,2,16,Team A
+Mind,61,45,Team C
+Pleung,22,61,Team C
+Ging,94,48,Team A
